@@ -1,0 +1,199 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container1 {
+  background-color: #9ba9eb;
+  padding: 70px;
+  width: 100vw;
+  min-height: 100vh;
+  color: white;
+}
+
+.container2 {
+  background-color: #5763a5;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.container31 {
+  background-color: #454f84;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.container32 {
+}
+
+.container4 {
+  display: flex;
+  align-items: center;
+  background-color: #f8fafc;
+  height: 30px;
+  border: 1px solid #64748b;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.image1 {
+  width: 120px;
+  height: 40px;
+}
+
+.heading1 {
+  font-size: 16px;
+}
+
+.image2 {
+  width: 300px;
+  height: 300px;
+}
+
+.websiteImg {
+  width: 25px;
+  height: 33px;
+  background-color: transparent;
+  border: 1px solid #64748b;
+  padding: 5px;
+}
+
+.inputEl {
+  height: 30px;
+  background-color: #f8fafc;
+  border-style: none;
+  width: 250px;
+}
+
+.button1 {
+  background-color: #0b69ff;
+  border-radius: 10px;
+  padding: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+  align-self: flex-end;
+}
+
+.container5 {
+  background-color: #5763a5;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 30px;
+}
+
+.container6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container71 {
+  display: flex;
+  align-items: center;
+}
+
+.container72 {
+  display: flex;
+  align-items: center;
+  background-color: #f8fafc;
+  height: 25px;
+  border-radius: 5px;
+}
+
+.heading2 {
+  font-size: 16px;
+  padding-right: 20px;
+}
+
+.para1 {
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.image3 {
+  background-color: #f8fafc;
+  width: 20px;
+  height: 25px;
+  border: 1px solid white;
+}
+
+.inputEl2 {
+  border-style: none;
+}
+
+.container8 {
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+}
+
+.listContainer {
+  flex-wrap: wrap;
+  display: flex;
+  list-style: none;
+}
+
+.container9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.image5 {
+  width: 300px;
+  height: 300px;
+}
+
+.container10 {
+  display: flex;
+  align-items: center;
+  border: 1px solid #b6c3ca;
+  margin: 20px;
+}
+
+.passwordImage {
+  width: 70px;
+  height: 10px;
+}
+
+.button22 {
+  background-color: transparent;
+  border-style: none;
+}
+
+.deleteImage {
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+  margin-left: 30px;
+}
+
+.headingdiv {
+  background-color: #10b981;
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  text-align: center;
+  margin: 20px;
+}
